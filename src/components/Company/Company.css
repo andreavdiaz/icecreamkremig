@@ -14,10 +14,10 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
-.company__tittle{
+.company__title{
 font-family: 'Poppins', sans-serif;
 font-size: 22px;
 line-height: 40px;
